@@ -9,8 +9,9 @@
 *ประกอบไปด้วย 3 ส่วนๆ หลัก potocal เช่น http,https , host เช่น google.com , port เช่น 5000,443*
 *ดังนั้น cors และ sop จึงเป็นการรักษาความปลอดภัยเว็บแต่ไม่ใช่ authentication เพื่อให้เว็บหนึ่งอ่านข้อมูลอีกเว็บ
 หรือใช้ติดต่อกับฝั่ง server*
-|:potocal||:host:||port:|
-|http,https||google.com||5000,443|
+| potocal | host | port |
+| :--- | :--- | :--- |
+| http, https | google.com | 5000, 443 |
 
 # Should know
 - http คือ วิธีสื่อสารระหว่าง client กับ server
